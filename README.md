@@ -6,6 +6,10 @@ Zybo Z7-10 FPGA SoC Development Board: Digital Lock FSM
 
 This project implements digital lock using System Verilog that incorporates several features, including the ability to unlock the lock by entering a specific sequence of keys, to cancel and re-enter a new combination, and to exit an alarm condition by entering a specific combination.
 
+## Demo Video
+
+[Demo on Youtube](https://youtu.be/-TZrEu0Rn_k)
+
 ## Dependencies
 
 ### Hardware
